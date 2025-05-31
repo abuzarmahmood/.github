@@ -16,6 +16,7 @@ My current work aims to further elucidate neural interactions by investigating t
 
 ## Featured Projects
 
+- **[blech_clust](https://github.com/katzlabbrandeis/blech_clust)**: Core contributor and maintainer of this Python/R-based spike sorting and analysis pipeline for electrophysiology data recorded using Intan RHD2132 chips
 - **[teachables](https://github.com/abuzarmahmood/teachables)**: Educational Jupyter notebooks for neuroscience and data analysis
 - **[neuRecommend](https://github.com/abuzarmahmood/neuRecommend)**: Classifier for semi-automated spike-sorting and channel recommendation
 - **[pytau](https://github.com/abuzarmahmood/pytau)**: Library to streamline batch-fitting of Bayesian changepoint models to neural population spiking data
