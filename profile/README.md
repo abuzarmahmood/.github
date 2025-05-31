@@ -2,7 +2,7 @@
 
 ## Exploring the Neural Symphony of Taste
 
-Hi! I'm Abuzar. My journey in neuroscience began with a fascination for how the brain processes sensory information. I studied Physics at the University of Missouri and received my PhD in Neuroscience from Brandeis University. In my dissertation, I investigated how brain regions coordinate to process taste and demonstrated that these regions likely behave as a joint attractor network—a discovery that opened new avenues for understanding neural dynamics.
+Hi! I'm Abuzar. I'm a Computational Neuroscience Postdoctoral Fellow at Brandeis University studying the role of brain-region interactions in sensory processing. My journey in neuroscience began with a fascination for how the brain processes sensory information. I studied Physics at the University of Missouri and received my PhD in Neuroscience from Brandeis University. In my dissertation, I investigated how brain regions coordinate to process taste and demonstrated that these regions likely behave as a joint attractor network—a discovery that opened new avenues for understanding neural dynamics.
 
 One of my most exciting research moments came when I first visualized the synchronized activity patterns between the gustatory cortex and amygdala. It was like watching a neural symphony unfold, with each region playing its unique part in the taste experience. This moment crystallized my passion for understanding the brain's complex networks.
 
@@ -14,10 +14,18 @@ Broadly, I'm interested in the mechanisms underlying the dynamics of processing 
 
 My current work aims to further elucidate neural interactions by investigating the timeseries of influence between the gustatory cortex, basolateral amygdala, and gustatory thalamus, as well as studying the critical role of feedback projections from cortex to amygdala and thalamus.
 
+## Featured Projects
+
+- **[teachables](https://github.com/abuzarmahmood/teachables)**: Educational Jupyter notebooks for neuroscience and data analysis
+- **[neuRecommend](https://github.com/abuzarmahmood/neuRecommend)**: Classifier for semi-automated spike-sorting and channel recommendation
+- **[pytau](https://github.com/abuzarmahmood/pytau)**: Library to streamline batch-fitting of Bayesian changepoint models to neural population spiking data
+- **[ocr_database](https://github.com/abuzarmahmood/ocr_database)**: Streamlit app to upload and search documents using optical character recognition
+- **[blech_github_bot](https://github.com/abuzarmahmood/blech_github_bot)**: A Python bot that monitors GitHub repositories and automatically responds to issues using OpenAI's GPT-4
+
 ## Connect With Me
 
-- 📍 Boston, USA
-- 🏫 Brandeis University
+- 📍 Waltham, MA
+- 🏫 Katz Lab, Brandeis University
 - 📧 [Email](mailto:abuzarmahmood@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/abuzarmahmood)
 - 💻 [Github](https://github.com/abuzarmahmood)
